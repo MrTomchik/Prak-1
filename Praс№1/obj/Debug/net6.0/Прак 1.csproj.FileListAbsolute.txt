@@ -1,0 +1,30 @@
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\bin\Debug\net6.0\Прак 1.exe
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\bin\Debug\net6.0\Прак 1.deps.json
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\bin\Debug\net6.0\Прак 1.runtimeconfig.json
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\bin\Debug\net6.0\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\bin\Debug\net6.0\Прак 1.pdb
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.AssemblyInfo.cs
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\refint\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.pdb
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\Прак 1.genruntimeconfig.cache
+C:\Users\Nikita\Documents\Мерцуня\Прак 1\obj\Debug\net6.0\ref\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\bin\Debug\net6.0\Прак 1.exe
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\bin\Debug\net6.0\Прак 1.deps.json
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\bin\Debug\net6.0\Прак 1.runtimeconfig.json
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\bin\Debug\net6.0\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\bin\Debug\net6.0\Прак 1.pdb
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.csproj.AssemblyReference.cache
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.AssemblyInfo.cs
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\refint\Прак 1.dll
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.pdb
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\Прак 1.genruntimeconfig.cache
+C:\Users\Nikita\Documents\Мерцуня\Praс№1\obj\Debug\net6.0\ref\Прак 1.dll
